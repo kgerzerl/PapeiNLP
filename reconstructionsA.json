@@ -1,0 +1,12 @@
+[
+    {
+        "model_name": "recreate_text1_using_regex id: 1",
+        "original_text": "Today is our dragon boat festival, in our Chinese culture, to celebrate it with all safe and great in our lives. Hope you too, to enjoy it as my deepest wishes.",
+        "reconstruction": "Today is our dragon boat festival, a special celebration in Chinese culture, to honor safety, health, and blessings in our lives. Hope you too, to enjoy it ,sending you my deepest wishes!"
+    },
+    {
+        "model_name": "recreate_text2_using_regex id: 2",
+        "original_text": "During our final discuss, I told him about the new submission — the one we were waiting since last autumn, but the updates was confusing as it not included the full feedback from reviewer or maybe editor?",
+        "reconstruction": "During our final discussion. I mentioned the new submission — the one we had been waiting for since last autumn. However, the updates were confusing, as they did not include the full feedback from the reviewer, or perhaps the editor??"
+    }
+]
